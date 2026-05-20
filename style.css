@@ -28,3 +28,6 @@ color: aliceblue;
 .cadastro-topo {
     flex: 4;
 }
+.cadastro-topo p {
+    padding-right: 100px;
+}
