@@ -59,7 +59,7 @@ body {
 .topo {
     display: flex;
     width: 1000px;
-    background-color: #e9d7e1;
+    background-color: #e8d7e9;
     border-radius: 10px;
     margin: auto;
     margin-top: 10px;
@@ -89,7 +89,7 @@ body {
     border-radius: 25px;
     padding: 25px;
     margin-top: 30px;
-    background-color: #e2cbdf;
+    background-color: #e0c5dd;
     border: 3px solid #965687;
     flex-direction: column;
     border-left: 13px solid #b964b260;
@@ -97,7 +97,7 @@ body {
 
 .documentosnecessarios h2{
     margin-left: 200px;
-    color: #aaa1a6;
+    color: #965687;
     font-size: 22px;
 }
 
